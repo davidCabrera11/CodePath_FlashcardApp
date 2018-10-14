@@ -3,8 +3,7 @@
 ### App Description
 Flash Card App that allows the user to see a custom question and its answer
 ### App Walk-through
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
+ 
  ![](FlashCard_App_GIF.gif)
  
 ## Required
