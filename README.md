@@ -1,4 +1,4 @@
-## FLash Card App
+## Flash Card App
 
 ### App Description
 Flash Card App that allows the user to see a custom question and its answer
