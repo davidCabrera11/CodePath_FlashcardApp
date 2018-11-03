@@ -26,6 +26,7 @@ Flash Card App that allows the user to see a custom question and its answer
 
 ### App Walk-though
 
+ ![](FlashCard_App_Lab2_GIF.gif)
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
