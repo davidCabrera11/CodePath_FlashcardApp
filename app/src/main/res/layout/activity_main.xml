@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
     <TextView
         android:id="@+id/flashcardQuestion"
         android:layout_width="match_parent"
@@ -26,5 +25,15 @@
         android:textSize="40sp"
         android:visibility="invisible"
         android:gravity="center"/>
+
+    <ImageView
+        android:id="@+id/addCardScreen"
+        android:layout_width="86dp"
+        android:layout_height="84dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="21dp"
+        android:layout_marginEnd="11dp"
+        android:src="@mipmap/ic_launcher_add" />
 
 </RelativeLayout>
